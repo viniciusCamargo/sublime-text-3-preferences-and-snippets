@@ -1,0 +1,36 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"font_size": 11.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"HTMLAttributes",
+		"BracketHighlighter",
+		"SublimeCodeIntel",
+		"Laravel Color Scheme",
+		"Nettuts+ Fetch",
+		"Twitter Bootstrap Snippets",
+		"HTML Snippets",
+		"Laravel Snippets",
+		"Theme - Cobalt2",
+		"SideBarGit",
+		"SFTP",
+		"Laravel Bootstrapper Snippets",
+		"HTML5",
+		"SideBarEnhancements",
+		"Vintage",
+		"Laravel Generator"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active",
+		"draw_combined"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"soda_classic_tabs": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme"
+}
