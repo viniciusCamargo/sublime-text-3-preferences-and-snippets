@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"C# Snippets",
+		"Emmet",
+		"GitGutter",
+		"Kulture",
+		"OmniSharp",
+		"Package Control",
+		"Sublimerge Pro",
+		"Theme - Spacegray"
+	]
+}
