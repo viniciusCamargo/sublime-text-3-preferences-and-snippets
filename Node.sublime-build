@@ -9,3 +9,8 @@
     "shell": true
   }
 }
+// or
+{   
+  "cmd": ["/home/vinicius/.nvm/versions/node/v6.6.0/bin/node", "$file"],   
+  "selector": "source.js"   
+}
